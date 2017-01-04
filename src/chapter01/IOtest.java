@@ -17,7 +17,7 @@ public class IOtest {
 //		System.out.println("");
 //		System.out.println("\n");
 //		System.out.println("Hello World");
-		Scanner scanner = new Scanner(System.in);
+		
 		
 	//	int count1 = scanner.nextInt();
 	//	int count2 = scanner.nextInt();
@@ -25,6 +25,7 @@ public class IOtest {
 		
 		
 	//	System.out.println(count1 + ":" + count2 + str);
+		Scanner scanner = new Scanner(System.in);
 		String str2 = scanner.nextLine();
 		System.out.println(str2);
 		
